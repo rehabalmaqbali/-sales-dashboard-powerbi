@@ -19,7 +19,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 - Data cleaning and transformation  
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+(Add image here)
 
 ## 🔗 Project Link
 https://bit.ly/your-dashboard-link
