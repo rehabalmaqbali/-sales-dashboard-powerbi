@@ -22,4 +22,4 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 ![Dashboard](dashboard.png)
 
 ## 🔗 Project Link
-https://bit.ly/your-dashboard-link
+https://bit.ly/4cJdWKm
